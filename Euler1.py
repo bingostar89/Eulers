@@ -340,9 +340,9 @@ def inabundent(i):
         return 0
 
 def Euler23():
+    return 1
 
 
 
-
-Euler21()
+Euler20()
 
